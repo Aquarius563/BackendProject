@@ -13,14 +13,6 @@ In this final project, we will build a server-side online book review applicatio
 
 
 
-## Tasks assessed by a screenshot
-
-
-### Results
-
-[Screenshots of tasks 1 to 9](https://github.com/j5py/express/tree/main/screenshots)
-
-
 
 ### Try it yourself
 
